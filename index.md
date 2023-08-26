@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![small_logo](https://github.com/universalbit-dev/universalbit.github.io/blob/main/assets/img/small_logo.png)
 
 ### Large image
 
