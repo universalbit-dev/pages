@@ -4,3 +4,15 @@ logo: /assets/img/logo.png
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+lsi: false
+safe: true
+source: /universalbit-dev/universalbit.github.io
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
