@@ -92,13 +92,6 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
-![small_logo](/assets/img/small_logo.png "small image logo")
-
-### Large image
-![logo](/assets/img/logo.png "large image logo")
-
-
 ### Definition lists can be used with HTML syntax.
 
 <dl>
