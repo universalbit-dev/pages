@@ -96,7 +96,7 @@ end
 ![small_logo](https://github.com/universalbit-dev/universalbit.github.io/blob/main/assets/img/small_logo.png "small image logo")
 
 ### Large image
-![large_logo](https://github.com/universalbit-dev/universalbit.github.io/blob/main/assets/img/logo.png "large image logo")
+![logo](https://github.com/universalbit-dev/universalbit.github.io/blob/main/assets/img/logo.png "large image logo")
 
 
 ### Definition lists can be used with HTML syntax.
